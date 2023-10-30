@@ -1,8 +1,12 @@
  # Ujian Tengah Semester-Praktikum PAM
 
- Elmi Wahyu Triyani
- 1217050045 
+Nama: Elmi Wahyu Triyani
+
+NIM:  1217050045 
+ 
  Praktikum PAM-H
+
+
 
 
 Berikut adah video demo aplikasi pizza restaurant: 
